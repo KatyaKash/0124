@@ -1,6 +1,10 @@
-.div1 {
-	color: red;
+.eee {
+	font-size: 20px;
 }
-.div2 {
-	color: green;
+.zzz {
+	font-size: 30px;
+}
+.eee, .zzz {
+	font-family: Arial;
+	line-height: 1.5;
 }
