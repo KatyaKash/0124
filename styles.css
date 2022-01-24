@@ -1,9 +1,9 @@
-.small{
-	font-size: 90px
+#elem1 {
+	color: red;
 }
-.ramuda{
-	color: pink;
+#elem2 {
+	color: green;
 }
-.clone{
-	font-family: "Comic Sans MS";
+#elem3 {
+	color: blue;
 }
