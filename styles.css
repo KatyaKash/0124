@@ -1,12 +1,9 @@
-.success {
-	color: green;
+.small{
+	font-size: 90px
 }
-.error {
-	color: red;
+.ramuda{
+	color: pink;
 }
-.large {
-	font-size: 30px;
-}
-.small {
-	font-size: 20px;
+.clone{
+	font-family: "Comic Sans MS";
 }
